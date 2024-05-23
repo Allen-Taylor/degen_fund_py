@@ -1,0 +1,6 @@
+Notes:
+virtual sol reserve = actual sol resrve + 30 sol
+
+virtual token reserve = actual token reserve +279_900_000 tokens
+
+virtual liquidity = virtual sol * sol price * 2
