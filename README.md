@@ -1,9 +1,12 @@
 # degen_fund_py
 
+Clone the repo, and add your Public Key (wallet), Private Key and RPC to the Config.py.
+
+### Contact
+
 Contact me if you need help integrating the code into your own project. 
 
 Telegram: Allen_A_Taylor (AL The Bot Father)
-
 
 ### Example
 
@@ -15,7 +18,6 @@ mint_str = "token_to_buy"
 
 #BUY
 buy(mint_str, .1)
-
 ```
 ```
 from degen_fund import sell
@@ -27,5 +29,4 @@ mint_str = "token_to_sell"
 #SELL
 token_balance = get_token_balance()
 sell(mint_str, token_balance)
-
 ```
