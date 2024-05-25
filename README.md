@@ -1,6 +1,6 @@
 # degen_fund_py
 
-Contact me for the codebase.
+Contact me if you need help integrating the code into your own project. 
 
 Telegram: Allen_A_Taylor (AL The Bot Father)
 
