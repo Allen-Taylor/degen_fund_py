@@ -4,9 +4,9 @@ Clone the repo, and add your Public Key (wallet), Private Key and RPC to the Con
 
 ### Contact
 
-Contact me if you need help integrating the code into your own project. 
+My services are for **hire**. Contact me if you need help integrating the code into your own project. 
 
-Telegram: Allen_A_Taylor (AL The Bot Father)
+Telegram: Allen_A_Taylor (AL THE BOT FATHER)
 
 ### Example
 
