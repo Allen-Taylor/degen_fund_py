@@ -1,8 +1,8 @@
 from solders.pubkey import Pubkey #type: ignore
 
 LAMPORTS_PER_SOL = 1_000_000_000
-UNIT_PRICE =  250_000
-UNIT_BUDGET =  150_000
+UNIT_PRICE =  10_000_000
+UNIT_BUDGET =  100_000
 
 main_state=Pubkey.from_string("GVPNKEcw7CV3txjG6Dc3fjb7ZScWt1jXBPVNmmtVEvQH")
 treasury=Pubkey.from_string("EKi6xXtmKAEgHzRkXxAq6G99sZf28wPD9AKNmKsC2DJ1")
