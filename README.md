@@ -27,6 +27,6 @@ from utils import get_token_balance
 mint_str = "token_to_sell"
 
 #SELL
-token_balance = get_token_balance()
+token_balance = get_token_balance(mint_str)
 sell(mint_str, token_balance)
 ```
